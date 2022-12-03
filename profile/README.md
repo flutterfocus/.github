@@ -7,9 +7,9 @@
 Flutter Focus is a mission to grow and house various categories of software exclusive to Dart 🎯 and Flutter 🕊. The goal is to provide the community with a range of libraries, tooling and educational content that follows a finely defined consistency across API's, packaging and resource formatting.
 
 ## ⚙ Getting started️
-- 📦 [Get public FF packages]() 
-- 🎁 [Get exclusive FF packages]() 
+- 📦 [Get **public** FF packages](https://github.com/flutterfocus/ff-packages-public) 
+- 🎁 [Get **exclusive** FF packages](https://github.com/sponsors/flutterfocus) 
 - ❤️ [Support Flutter Focus](https://github.com/sponsors/flutterfocus)
-- 📖 [Documentation](https://docs.page/flutterfocus/flutterfocus/)
-- 🧑‍🎓 [Learn about Dart / Flutter]() 
+- 📖 [Package Documentation](https://docs.page/flutterfocus/flutterfocus/)
+- 🧑‍🎓 [Learn about Dart / Flutter](https://www.youtube.com/@flutterfocus) 
 - 📱 [Need a Mobile App, Web Design or Video Marketing?](https://cyberpod.nz) 

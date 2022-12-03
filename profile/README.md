@@ -1,6 +1,6 @@
 # Flutter Focus  🕊️
 
-![Flutter Focus Cover](images/cover2.png)
+!Flutter Focus Cover](/.github/profile/images/cover2.png)
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-informational?style=flat&logo=youtube&logoColor=red&color=red)](https://youtube.com/@flutterfocus) [![Twitter Badge](https://img.shields.io/badge/@Twitter-Profile-informational?style=flat&logo=twitter&logoColor=lightblue&color=1CA2F1)](https://twitter.com/flutterfocus) [![Facebook Badge](https://img.shields.io/badge/Facebook-Page-informational?style=flat&logo=facebook&logoColor=blue&color=blue)](https://facebook.com/100087888923303)
 

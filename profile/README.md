@@ -9,6 +9,7 @@ Flutter Focus is a mission to grow and house various categories of software excl
 ## ⚙ Getting started️
 - 📦 [Get public FF packages]() 
 - 🎁 [Get exclusive FF packages]() 
+- ❤️ [Support Flutter Focus](https://github.com/sponsors/flutterfocus)
 - 📖 [Documentation](https://docs.page/flutterfocus/flutterfocus/)
 - 🧑‍🎓 [Learn about Dart / Flutter]() 
 - 📱 [Need a Mobile App, Web Design or Video Marketing?](https://cyberpod.nz) 

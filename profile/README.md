@@ -10,7 +10,8 @@ Flutter Focus is a mission to grow and house various categories of software excl
 - 📦 [Get **public** FF packages](https://github.com/flutterfocus/ff-packages-public) 
 - 🎁 [Get **exclusive** FF packages](https://github.com/sponsors/flutterfocus) 
 - 📖 [Package Documentation](https://docs.page/flutterfocus/flutterfocus/)
-- 🧑‍🎓 [Learn about Dart / Flutter](https://www.youtube.com/@flutterfocus) 
+- 📖 [Dart / Flutter Written Tutorials](https://docs.page/flutterfocus/flutterfocus/tutorials)
+- 🧑‍🎓 [Dart / Flutter Video Tutorials](https://www.youtube.com/@flutterfocus) 
 - ❤️ [Support Flutter Focus](https://github.com/sponsors/flutterfocus)
 
 ## Need Mobile, Web or Video marketing services? 📱 🌐 📹

@@ -4,7 +4,8 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-informational?style=flat&logo=youtube&logoColor=red&color=red)](https://youtube.com/@flutterfocus) [![Twitter Badge](https://img.shields.io/badge/@Twitter-Profile-informational?style=flat&logo=twitter&logoColor=lightblue&color=1CA2F1)](https://twitter.com/flutterfocus) [![Discord Badge](https://img.shields.io/discord/1048138797893828608?color=blue&label=Flutter%20Focus&logo=discord)](https://facebook.com/100087888923303) [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/flutterfocus?color=red&label=Flutter%20Focus&logo=reddit)](https://reddit.com/flutterfocus)
 
-**We're still setting things up! ⭐ Star and 👀 watch this repository to be notified of activity.**
+**We're still setting things up! ⭐ Star and 👀 watch [this](https://github.com/flutterfocus/flutterfocus) repository to be notified of activity.**
+
 
 Flutter Focus is a mission to grow and house various categories of software exclusive to Dart 🎯 and Flutter 🕊. The goal is to provide the community with a range of libraries, tooling and educational content that follows a finely defined consistency across API's, packaging and resource formatting.
 

@@ -9,13 +9,14 @@
 Flutter Focus specialises in storytelling by mixing Mobile, Web and Video to create interactive multimedia experiences.
 The Flutter Focus mission also contributes to the Dart and the Flutter communities by making available Free and Open Source Software with high quality API's, documentation and educational content.
 
-## 📦 Packages
-- 📦 [Get **public** packages](https://github.com/flutterfocus/ff-packages-public) 
-- 🎁 [Get **exclusive** packages](https://github.com/sponsors/flutterfocus) 
-- 📖 [Package Documentation](https://docs.page/flutterfocus/flutterfocus/)
+## 📦 Get started
+- 📦 [Get **public** packages](https://github.com/flutterfocus/ff-packages-public)
+- 🎁 [Get **exclusive** packages](https://github.com/sponsors/flutterfocus)
+- 💻 [Get the Flutter Focus Nvim config](https://github.com/flutterfocus/development_nvim)
+<!-- - 📖 [Package Documentation](https://docs.page/flutterfocus/flutterfocus/) -->
 
 ## ⚙ Learn Dart / Flutter
-- 📖 [Dart / Flutter Written Tutorials](https://docs.page/flutterfocus/flutterfocus/tutorials)
+<!-- - 📖 [Dart / Flutter Written Tutorials](https://docs.page/flutterfocus/flutterfocus/tutorials) -->
 - 🧑‍🎓 [Dart / Flutter Video Tutorials](https://www.youtube.com/@flutterfocus) 
 
 ## ❤️  Support Flutter Focus 
